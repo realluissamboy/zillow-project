@@ -15,27 +15,19 @@ This project focuses on developing a comprehensive Real Estate Market Analysis D
 - **Custom Calculations:** Implementation of custom calculations for accurate data analysis tailored to real estate metrics.
 - **Scalable Design:** The dashboards are designed to be easily extendable to include additional metrics or data sources as needed.
 
-## Project Structure
-
-- **/data/**: Contains the datasets used for analysis.
-- **/powerbi/**: Power BI project files, including PBIX files and custom visuals.
-- **/tableau/**: Tableau project files, including TWB and TDS files.
-- **/scripts/**: Any Python or DAX scripts used for data transformation or custom calculations.
-- **/docs/**: Documentation, including user guides and detailed explanations of the dashboard's features.
-
 ## Setup Instructions
 
 ### Power BI
 
 1. Clone this repository to your local machine.
-2. Open the `.pbix` file located in the `/powerbi/` directory using Power BI Desktop.
+2. Open the `.pbix` file using Power BI Desktop.
 3. Ensure that the data sources are correctly linked; you may need to adjust file paths based on your local environment.
 4. Customize the dashboard according to your requirements.
 
 ### Tableau
 
 1. Clone this repository to your local machine.
-2. Open the `.twb` file located in the `/tableau/` directory using Tableau Desktop.
+2. Open the `.twb` file using Tableau Desktop.
 3. Ensure that the data sources are correctly linked; you may need to adjust file paths based on your local environment.
 4. Explore the pre-built dashboards or create your own visualizations.
 
